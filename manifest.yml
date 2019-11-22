@@ -1,0 +1,8 @@
+---
+applications:
+- name: danitrod-teste010982
+  command: npm start
+  buildpack: sdk-for-nodejs
+  memory: 256M
+  env:
+    NODE_ENV: production
