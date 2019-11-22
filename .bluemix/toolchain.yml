@@ -22,7 +22,7 @@ toolchain:
       $ref: '#/messages/toolchain.getting_started'
 services:
   repo:
-    service_id: github
+    service_id: github_public
     parameters:
       repo_url: https://github.com/CodeRepOrg/Chat-Interface
       type: clone
