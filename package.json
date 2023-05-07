@@ -39,7 +39,7 @@
     "express": "^4.17.1",
     "express-rate-limit": "^3.4.0",
     "helmet": "^3.18.0",
-    "ibm-watson": "^4.2.1",
+    "ibm-watson": "^8.0.0",
     "node-cache": "^4.2.0",
     "request": "^2.88.0",
     "uuid": "^3.3.2",
